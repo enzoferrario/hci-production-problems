@@ -15,8 +15,8 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 
 1. A **monochromatic color palette** for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=12P0u0k++nGaFw0g0qFp6gSw0aF
+Your Rationale: I believe green is a great color to promote gaming. The color can be used in many sleek and innovative designs, and the color itself promotes high energy. It also can be used as a color of nostalgia as a color used often in gaming is green. 
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
