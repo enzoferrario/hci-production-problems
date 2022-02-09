@@ -16,17 +16,17 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 1. A **monochromatic color palette** for a site introducing a new console gaming platform
 
 Your Palette URL: https://paletton.com/#uid=12P0u0k++nGaFw0g0qFp6gSw0aF
-Your Rationale: I believe green is a great color to promote gaming. The color can be used in many sleek and innovative designs, and the color itself promotes high energy. It also can be used as a color of nostalgia as a color used often in gaming is green. 
+Your Rationale: I believe green is a great color to promote gaming. The color can be used in many sleek and innovative designs, and the color itself promotes high energy. It also can be used as a color of nostalgia as a color used often in gaming is green.
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=52v0s0k++se9XycfbrvohhIvgbq
+Your Rationale: When people think of plants and nature, the first color that pops into their head is green. A lush, natural green of a landscape is the perfect color for botanical gardens. Green will be a predominant color around every corner.
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=30f0s0kFlGGlyJgrBGRFEsDITlF
+Your Rationale: When thinking of a color scheme for children, it is important to keep the kids attention. One way to do that is with bright colors. Kids will see the colors and they can learn to associate the colors with different parts of the login page. It will also hold their attention longer than the duller colors would.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
