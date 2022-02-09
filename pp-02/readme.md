@@ -30,5 +30,5 @@ Your Rationale: When thinking of a color scheme for children, it is important to
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=53K120kLApxupDtHluOO0l0Trex
+Your Rationale: I would personally use this triadic color scheme as to be both attractive to the public and easy on the eyes. The attractiveness is important to grab people's attention and the easy on the eyes part allows that attention to be held. The color scheme itself also gives off a technological feel in my opinion.
