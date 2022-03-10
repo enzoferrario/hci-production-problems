@@ -35,8 +35,8 @@ Small commits to your Production Problems repository that include:
 * HCI Guideline Two (URL): https://developer.apple.com/design/human-interface-guidelines/ios/controls/buttons/
 * Describe how you implemented that guideline in your sketch: The buttons, specifically at the bottom of the page, are a bit small and may prove difficult to touch as they are so close together. My new design spaces the buttons out and makes them larger and easier to distinguish between.
 
-* HCI Guideline Three (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Three (URL): https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/data-entry/
+* Describe how you implemented that guideline in your sketch: The boxes used in user input are differing sizes seemingly for no reason. My fix is to make the boxes are the same sizes in order to boost cleanliness and organization.
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
