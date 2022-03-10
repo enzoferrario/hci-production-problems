@@ -32,8 +32,8 @@ Small commits to your Production Problems repository that include:
 * HCI Guideline One (URL): https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/keyboards/
 * Describe how you implemented that guideline in your sketch: As the website says, when using a keyboard on mobile devices, it is important to make sure that the keyboard feels implemented. My solution was to make sure that the keyboard never covered any important buttons or UI on the page. That way neither of them would be obscured and the keyboard feels right in place.
 
-* HCI Guideline Two (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Two (URL): https://developer.apple.com/design/human-interface-guidelines/ios/controls/buttons/
+* Describe how you implemented that guideline in your sketch: The buttons, specifically at the bottom of the page, are a bit small and may prove difficult to touch as they are so close together. My new design spaces the buttons out and makes them larger and easier to distinguish between.
 
 * HCI Guideline Three (URL):
 * Describe how you implemented that guideline in your sketch:
