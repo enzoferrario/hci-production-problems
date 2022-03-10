@@ -29,8 +29,8 @@ Small commits to your Production Problems repository that include:
 2. An explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline One (URL): https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/keyboards/
+* Describe how you implemented that guideline in your sketch: As the website says, when using a keyboard on mobile devices, it is important to make sure that the keyboard feels implemented. My solution was to make sure that the keyboard never covered any important buttons or UI on the page. That way neither of them would be obscured and the keyboard feels right in place.
 
 * HCI Guideline Two (URL):
 * Describe how you implemented that guideline in your sketch:
