@@ -40,10 +40,10 @@ Copy and paste the URL for your personal fork of the repository here: https://gi
 computer. Once you have cloned the forked copy, you should add the *upstream*, team repository as a
 second remote. Run `git remote add upstream` followed by the URL for your team’s repository.
 
-Write or copy & paste the output of `git remote -v` from your copy of the forked repository here: origin	git@github.com:enzoferrario/hci-production-problems.git (fetch)
-origin	git@github.com:enzoferrario/hci-production-problems.git (push)
-upstream	https://github.com/hci-2022/hci-production-problems.git (fetch)
-upstream	https://github.com/hci-2022/hci-production-problems.git (push)
+Write or copy & paste the output of `git remote -v` from your copy of the forked repository here: origin	git@github.com:enzoferrario/Anchor-Antics.git (fetch)
+origin	git@github.com:enzoferrario/Anchor-Antics.git (push)
+upstream	git@github.com:enzoferrario/Anchor-Antics.git (fetch)
+upstream	git@github.com:enzoferrario/Anchor-Antics.git (push)
 
 8. Next, on a feature branch called `self-intro`, all team members should add their names to the
 `README.md` file, along with brief sentence or two of what the member believes are his/her primary
@@ -51,7 +51,7 @@ strengths. Prior to creating the `self-intro` branch, be sure to pull from the r
 pull upstream main`) to get any other team members’ names and strengths. Add and commit your own
 work, and push to your own repository (`git push origin self-intro`).
 
-Copy and paste the URL of your pull request here:
+Copy and paste the URL of your pull request here: https://github.com/The-Pavlik-Ahn-Fasano-Clown-Fiesta/Anchor-Antics/pull/8
 
 9. Finally, within your fork of the repository on GitHub, open up a pull request from your
 `self-intro` branch to `main` branch in the shared  repository. Each team member should review the
