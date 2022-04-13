@@ -17,7 +17,8 @@ for your first (and second) round of usability testing.
 * URLs for the usability checklists you’ve found:
 
 1. https://wsuwp-uploads.s3.amazonaws.com/uploads/sites/7/2015/08/25-point-usability-checklist-final.pdf
-2.https://araghu.wordpress.com/2016/02/27/the-25-point-website-usability-checklist/
+
+2. https://araghu.wordpress.com/2016/02/27/the-25-point-website-usability-checklist/
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
